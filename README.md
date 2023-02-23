@@ -2,7 +2,7 @@
 
 This repository accompanies the paper 
 "**A Multi-Domain System for Real-time Recommendations**" 
-submitted to ECIR'23 Demonstration Paper Track.
+accepted at the ECIR'23 Demonstration Paper Track - paper: https://arxiv.org/pdf/2301.01037.pdf
 
 **Demonstration goal:** Setup an online movie recommender
 
